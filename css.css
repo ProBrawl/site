@@ -1,1 +1,16 @@
+      h1 {color: red; 
+background-color: yellow;
+margin: 50px;
+font-size: 50px;
+font-family: AdvertisementPSCyr;
+border: 20px solid;
+text-align: center;}
 
+p {color: #02A299;
+background-color: yellow;
+padding: 50px;
+font-family: Arial;
+border: 20px solid;
+border-color: red;}
+
+b {background-color: red;}
