@@ -12,7 +12,7 @@ text-align: center;}
 
 p {color: red;
 background-color: blue;}
-div {
+div.button {
 align-items: center;
 background-color: rgb(111, 100, 233);
 background-image: none;
