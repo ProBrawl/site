@@ -13,6 +13,9 @@ text-align: center;}
 p {color: red;
 background-color: blue;}
 
+div.button-green{background-color: green}
+dif.button-red{background-color: red}
+
 div.big-button {color: red; 
 background-color: blue;
 margin: 50px;
